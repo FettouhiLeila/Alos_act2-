@@ -1,4 +1,5 @@
 # Alos_act2-
+FETTOUHI LEILA/ MAROUF NAWEL
 Nous avons d'abord démarré un projet node JS API en créant un répértoire qui contient le package.json ( avec la commande npm init sur le cmd)
 Puis nous avons ajouté Express à notre node API avec la commande node install express et ajouté le serveur Express dans notre fichier index.js
 Nous avons lancé notre adresse localhost:8080 avec la commande node index.js sur le terminal du fichier index
